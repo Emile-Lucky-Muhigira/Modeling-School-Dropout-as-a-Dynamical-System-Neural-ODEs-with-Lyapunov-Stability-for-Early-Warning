@@ -1,0 +1,757 @@
+﻿ISO_Code,Country,Year,"Total net attendance rate, primary, male (%)","Total net attendance rate, primary, female (%)","Total net attendance rate, primary, both sexes (%)","Total net attendance rate, primary, urban, male  (%)","Total net attendance rate, primary, urban, female (%)","Total net attendance rate, primary, urban, both sexes (%)","Total net attendance rate, primary, rural, male  (%)","Total net attendance rate, primary, rural, female (%)","Total net attendance rate, primary, rural, both sexes (%)","Total net attendance rate, primary, poorest quintile, both sexes (%)","Total net attendance rate, primary, poorest quintile, female (%)","Total net attendance rate, primary, poorest quintile, male (%)","Total net attendance rate, primary, richest quintile, both sexes (%)","Total net attendance rate, primary, richest quintile, female (%)","Total net attendance rate, primary, richest quintile, male (%)"
+DZA,Algeria,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+AGO,Angola,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BWA,Botswana,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BFA,Burkina Faso,2010,53.65,50.03,51.9,85.05,80.31,82.64,47.35,43.2,45.36,30.78,27.8,33.4,85.14,81.87,88.73
+CPV,Cabo Verde,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CMR,Cameroon,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BDI,Burundi,2010,85.19,84.22,84.68,89.91,91.8,90.9,84.77,83.54,84.13,75.88,76.85,74.72,92.07,91.44,92.75
+CAF,Central African Republic,2010,78.34,68.18,73.38,88.45,83.99,86.22,72.51,58.35,65.68,57.44,49.15,64.87,90.53,88.62,92.41
+TCD,Chad,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COM,Comoros,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COG,"Congo, Rep.",2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COD,"Congo, Dem. Rep.",2010,77.06,71.5,74.26,87.62,85.62,86.6,72.66,65.38,69.01,64.73,61.29,68,92.12,92,92.26
+CIV,Cote d'Ivoire,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+DJI,Djibouti,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+EGY,"Egypt, Arab Rep.",2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GNQ,Equatorial Guinea,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ERI,Eritrea,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ETH,Ethiopia,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SWZ,Eswatini,2010,97.78,98.24,98.01,97.96,98.63,98.29,97.75,98.17,97.96,96.72,97.19,96.27,99.62,100,99.26
+GAB,Gabon,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GMB,"Gambia, The",2010,69.38,71.25,70.31,84.83,81.54,83.14,59.04,63.76,61.36,54.69,56.54,52.91,89.83,90.12,89.51
+GHA,Ghana,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GNB,Guinea-Bissau,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GIN,Guinea,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+KEN,Kenya,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LSO,Lesotho,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LBY,Libya,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LBR,Liberia,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MWI,Malawi,2010,90.31,92.03,91.17,96.32,95.1,95.7,89.39,91.54,90.47,83.96,84.88,83.02,97.87,98.13,97.61
+MDG,Madagascar,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MLI,Mali,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MRT,Mauritania,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MUS,Mauritius,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MOZ,Mozambique,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MAR,Morocco,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NAM,Namibia,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NGA,Nigeria,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NER,Niger,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+RWA,Rwanda,2010,93.58,94.56,94.07,96.31,96.38,96.35,93.21,94.32,93.77,89.3,89.96,88.62,96.44,96.71,96.19
+STP,Sao Tome and Principe,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SEN,Senegal,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SYC,Seychelles,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SOM,Somalia,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SLE,Sierra Leone,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZAF,South Africa,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SDN,Sudan,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SSD,South Sudan,2010,27.99,23.09,25.58,44.12,41.91,43.01,23.18,17.23,20.26,10.73,6.53,14.9,54.28,53.62,54.91
+TZA,Tanzania,2010,82.4,84.87,83.65,93.84,91.36,92.49,79.88,83.14,81.5,71.72,73.11,70.49,95.22,94.14,96.56
+TGO,Togo,2010,85.05,82.3,83.7,90.14,88.68,89.39,83,79.36,81.25,79.43,76.46,82.05,96.75,93.92,99.47
+TUN,Tunisia,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+UGA,Uganda,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZMB,Zambia,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZWE,Zimbabwe,2010,94.42,95.53,94.98,94.81,96.94,95.95,94.32,95.08,94.7,91.42,91.89,90.9,97.08,97.44,96.69
+BEN,Benin,2010,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+DZA,Algeria,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+AGO,Angola,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BWA,Botswana,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BFA,Burkina Faso,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CPV,Cabo Verde,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CMR,Cameroon,2011,87.42,82.58,85.05,95.42,93.87,94.66,81.66,74.23,78.05,60.32,52.44,67.48,98.95,98.87,99.03
+BDI,Burundi,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CAF,Central African Republic,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TCD,Chad,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COM,Comoros,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COG,"Congo, Rep.",2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COD,"Congo, Dem. Rep.",2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CIV,Cote d'Ivoire,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+DJI,Djibouti,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+EGY,"Egypt, Arab Rep.",2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GNQ,Equatorial Guinea,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ERI,Eritrea,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ETH,Ethiopia,2011,62.32,62.1,62.21,87.07,82.57,84.87,58.19,58.78,58.48,49.24,49.28,49.21,85.14,83.76,86.52
+SWZ,Eswatini,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GAB,Gabon,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GMB,"Gambia, The",2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GHA,Ghana,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GNB,Guinea-Bissau,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GIN,Guinea,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+KEN,Kenya,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LSO,Lesotho,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LBY,Libya,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LBR,Liberia,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MWI,Malawi,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MDG,Madagascar,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MLI,Mali,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MRT,Mauritania,2011,58.67,61.5,60.12,71.48,74.33,72.92,51.67,54.64,53.19,42.8,43.95,41.52,84.61,85.56,83.61
+MUS,Mauritius,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MOZ,Mozambique,2011,76.99,76.96,76.98,87.49,87.87,87.69,72.9,72.45,72.67,64.25,62.61,65.96,95.18,94.92,95.48
+MAR,Morocco,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NAM,Namibia,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NGA,Nigeria,2011,77.32,73,75.18,92.84,92.61,92.73,70.25,63.41,66.9,36.25,32.65,39.86,98.28,98.43,98.12
+NER,Niger,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+RWA,Rwanda,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+STP,Sao Tome and Principe,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SEN,Senegal,2011,54.23,58.35,56.27,74.36,77.27,75.81,42.48,47.16,44.79,41.61,45.24,38.09,75.89,75.95,75.84
+SYC,Seychelles,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SOM,Somalia,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SLE,Sierra Leone,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZAF,South Africa,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SDN,Sudan,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SSD,South Sudan,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TZA,Tanzania,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TGO,Togo,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TUN,Tunisia,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+UGA,Uganda,2011,93.18,92.32,92.76,97.46,95.14,96.3,92.68,91.98,92.34,83.07,80.85,85.34,97.54,96.47,98.62
+ZMB,Zambia,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZWE,Zimbabwe,2011,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BEN,Benin,2011,79.42,73.34,76.5,86.96,80.65,83.8,75.22,68.68,72.17,56.8,51.08,61.85,90.82,86.52,95.29
+DZA,Algeria,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+AGO,Angola,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BWA,Botswana,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BFA,Burkina Faso,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CPV,Cabo Verde,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CMR,Cameroon,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BDI,Burundi,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CAF,Central African Republic,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TCD,Chad,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COM,Comoros,2012,85.59,85.17,85.39,90.2,92.03,91.07,83.61,82.33,82.99,72.12,71.47,72.67,95.89,95.51,96.23
+COG,"Congo, Rep.",2012,96.44,96.35,96.4,97.35,97.49,97.42,95.12,94.79,94.95,93.15,93.06,93.24,99.29,99.64,98.96
+COD,"Congo, Dem. Rep.",2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CIV,Cote d'Ivoire,2012,71.82,66.33,69.12,81.14,74.38,77.7,66.31,60.98,63.75,56.63,54.66,58.58,87.09,84.28,90.16
+DJI,Djibouti,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+EGY,"Egypt, Arab Rep.",2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GNQ,Equatorial Guinea,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ERI,Eritrea,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ETH,Ethiopia,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SWZ,Eswatini,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GAB,Gabon,2012,95.58,96.57,96.09,95.7,96.88,96.31,95.01,94.86,94.93,91.91,92.24,91.62,96.66,97.8,95.45
+GMB,"Gambia, The",2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GHA,Ghana,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GNB,Guinea-Bissau,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GIN,Guinea,2012,63.3,52.96,58.06,88.59,80.4,84.49,52.63,41.81,47.11,32.21,26.33,38.09,89.91,86.66,93.34
+KEN,Kenya,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LSO,Lesotho,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LBY,Libya,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LBR,Liberia,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MWI,Malawi,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MDG,Madagascar,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MLI,Mali,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MRT,Mauritania,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MUS,Mauritius,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MOZ,Mozambique,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MAR,Morocco,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NAM,Namibia,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NGA,Nigeria,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NER,Niger,2012,54.3,46.08,50.28,83.7,81.65,82.65,49.44,39.46,44.61,34.15,27.74,39.75,80.66,80.4,80.92
+RWA,Rwanda,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+STP,Sao Tome and Principe,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SEN,Senegal,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SYC,Seychelles,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SOM,Somalia,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SLE,Sierra Leone,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZAF,South Africa,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SDN,Sudan,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SSD,South Sudan,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TZA,Tanzania,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TGO,Togo,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TUN,Tunisia,2012,98.72,98.24,98.5,99.36,99.56,99.45,97.64,95.94,96.86,96.48,95.64,97.19,99.94,100,99.89
+UGA,Uganda,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZMB,Zambia,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZWE,Zimbabwe,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BEN,Benin,2012,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+DZA,Algeria,2013,97.88,98.08,97.98,97.96,98.51,98.23,97.73,97.32,97.53,96.61,96.06,97.14,98.66,99.16,98.2
+AGO,Angola,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BWA,Botswana,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BFA,Burkina Faso,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CPV,Cabo Verde,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CMR,Cameroon,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BDI,Burundi,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CAF,Central African Republic,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TCD,Chad,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COM,Comoros,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COG,"Congo, Rep.",2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COD,"Congo, Dem. Rep.",2013,88.45,85.49,86.97,93.22,92.47,92.84,86.16,82,84.09,78.61,75.52,81.57,94.07,93.93,94.22
+CIV,Cote d'Ivoire,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+DJI,Djibouti,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+EGY,"Egypt, Arab Rep.",2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GNQ,Equatorial Guinea,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ERI,Eritrea,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ETH,Ethiopia,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SWZ,Eswatini,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GAB,Gabon,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GMB,"Gambia, The",2013,72.61,73.67,73.14,84.03,81.85,82.94,63.26,66.91,65.07,67.34,67.72,66.96,90.59,90.45,90.73
+GHA,Ghana,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GNB,Guinea-Bissau,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GIN,Guinea,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+KEN,Kenya,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LSO,Lesotho,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LBY,Libya,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LBR,Liberia,2013,82.09,83.23,82.65,86.55,86.69,86.62,76.89,78.19,77.49,68.33,67.92,68.68,93.44,94.95,91.73
+MWI,Malawi,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MDG,Madagascar,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MLI,Mali,2013,56.85,51.83,54.42,86.15,80.29,83.14,50.05,44.18,47.26,34.55,31.73,37.11,85.88,82.68,89.26
+MRT,Mauritania,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MUS,Mauritius,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MOZ,Mozambique,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MAR,Morocco,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NAM,Namibia,2013,94.7,96.08,95.4,97.43,97.38,97.41,93.13,95.28,94.2,91.91,93.94,89.87,98.74,98.55,98.95
+NGA,Nigeria,2013,73.15,68.99,71.09,91.12,89.88,90.5,62.56,56.35,59.49,29.11,26.28,31.96,98.07,97.85,98.31
+NER,Niger,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+RWA,Rwanda,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+STP,Sao Tome and Principe,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SEN,Senegal,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SYC,Seychelles,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SOM,Somalia,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SLE,Sierra Leone,2013,73.79,77.79,75.72,87.23,88.52,87.9,68.98,72.94,70.82,62.02,65.97,58.71,91.93,90.67,93.35
+ZAF,South Africa,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SDN,Sudan,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SSD,South Sudan,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TZA,Tanzania,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TGO,Togo,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TUN,Tunisia,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+UGA,Uganda,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZMB,Zambia,2013,85.94,88.26,87.11,92.27,92.32,92.3,82.74,85.9,84.29,74.99,75.43,74.56,96.76,95.99,97.65
+ZWE,Zimbabwe,2013,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BEN,Benin,2013,70.08,66.61,68.38,82.32,79.24,80.79,61.76,57.59,59.74,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+DZA,Algeria,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+AGO,Angola,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BWA,Botswana,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BFA,Burkina Faso,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CPV,Cabo Verde,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CMR,Cameroon,2014,86.75,82.45,84.61,93.54,93.25,93.39,82.12,74.43,78.37,65.45,59.4,71.55,98.93,98.97,98.88
+BDI,Burundi,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CAF,Central African Republic,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TCD,Chad,2014,53.13,46.94,50.11,74.97,68.48,71.88,47.56,41.75,44.72,44.26,41.59,46.82,75.38,71.73,78.85
+COM,Comoros,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COG,"Congo, Rep.",2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COD,"Congo, Dem. Rep.",2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CIV,Cote d'Ivoire,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+DJI,Djibouti,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+EGY,"Egypt, Arab Rep.",2014,97.07,96.64,96.86,96.6,97.51,97.04,97.31,96.19,96.77,94.56,93.81,95.27,98.5,98.37,98.62
+GNQ,Equatorial Guinea,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ERI,Eritrea,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ETH,Ethiopia,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SWZ,Eswatini,2014,98.43,98.64,98.54,99.14,99.36,99.25,98.26,98.46,98.36,97.88,98.13,97.62,100,100,100
+GAB,Gabon,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GMB,"Gambia, The",2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GHA,Ghana,2014,82.73,81.45,82.09,84.86,83.81,84.34,81.05,79.57,80.32,78.55,78.81,78.32,87.2,88.93,85.69
+GNB,Guinea-Bissau,2014,72.39,72.68,72.53,89.7,87.87,88.76,61.47,60.9,61.21,62.65,62.8,62.52,93.81,90.86,96.88
+GIN,Guinea,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+KEN,Kenya,2014,95.7,95.74,95.72,97.16,97.99,97.58,95.17,94.9,95.03,86.41,85.5,87.29,98.53,98.98,98.04
+LSO,Lesotho,2014,94.17,98.16,96.2,98.73,97.78,98.22,93.04,98.27,95.67,92.32,97.26,87.52,98.75,98.61,98.9
+LBY,Libya,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LBR,Liberia,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MWI,Malawi,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MDG,Madagascar,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MLI,Mali,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MRT,Mauritania,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MUS,Mauritius,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MOZ,Mozambique,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MAR,Morocco,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NAM,Namibia,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NGA,Nigeria,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NER,Niger,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+RWA,Rwanda,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+STP,Sao Tome and Principe,2014,96.24,96.51,96.37,97.13,96.17,96.64,94.62,97.19,95.86,95.06,96.84,93.39,98.94,98.21,99.72
+SEN,Senegal,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SYC,Seychelles,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SOM,Somalia,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SLE,Sierra Leone,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZAF,South Africa,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SDN,Sudan,2014,79.77,78.56,79.17,93.52,94.19,93.85,74.45,72.43,73.45,59.27,57.2,61.2,98.77,98.6,98.95
+SSD,South Sudan,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TZA,Tanzania,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TGO,Togo,2014,90.26,86.91,88.61,96.2,96.45,96.33,87.92,82.7,85.39,79.69,75.74,83.18,97.15,96.5,97.84
+TUN,Tunisia,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+UGA,Uganda,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZMB,Zambia,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZWE,Zimbabwe,2014,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BEN,Benin,2014,77.12,72.97,75.1,85.39,83.45,84.42,71.33,64.89,68.27,51.07,46.13,55.25,95.34,92.77,98.39
+DZA,Algeria,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+AGO,Angola,2015,78.58,77.79,78.19,85.74,85.12,85.43,66.01,64.24,65.15,60.59,60.14,61.01,95.48,94.74,96.27
+BWA,Botswana,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BFA,Burkina Faso,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CPV,Cabo Verde,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CMR,Cameroon,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BDI,Burundi,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CAF,Central African Republic,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TCD,Chad,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COM,Comoros,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COG,"Congo, Rep.",2015,96.7,97.01,96.86,98.33,98.45,98.39,94.13,94.51,94.31,92.43,92.39,92.46,99.46,99.09,99.87
+COD,"Congo, Dem. Rep.",2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CIV,Cote d'Ivoire,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+DJI,Djibouti,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+EGY,"Egypt, Arab Rep.",2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GNQ,Equatorial Guinea,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ERI,Eritrea,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ETH,Ethiopia,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SWZ,Eswatini,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GAB,Gabon,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GMB,"Gambia, The",2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GHA,Ghana,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GNB,Guinea-Bissau,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GIN,Guinea,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+KEN,Kenya,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LSO,Lesotho,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LBY,Libya,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LBR,Liberia,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MWI,Malawi,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MDG,Madagascar,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MLI,Mali,2015,55.15,51.62,53.43,85.95,80.48,83.19,47.8,44.03,45.98,26.54,25.28,27.75,87.43,85.24,89.74
+MRT,Mauritania,2015,58.01,61.85,59.96,71.59,74.91,73.3,48.45,52.36,50.43,42.86,43.02,42.7,85.2,89.19,80.68
+MUS,Mauritius,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MOZ,Mozambique,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MAR,Morocco,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NAM,Namibia,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NGA,Nigeria,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NER,Niger,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+RWA,Rwanda,2015,93.31,95.55,94.44,97.11,94.83,96,92.66,95.66,94.18,88.41,90.42,86.36,97.1,96.91,97.28
+STP,Sao Tome and Principe,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SEN,Senegal,2015,60.4,62.11,61.25,78.5,81.84,80.14,48.92,50.28,49.61,51.22,51.73,50.69,83.91,82.14,85.76
+SYC,Seychelles,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SOM,Somalia,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SLE,Sierra Leone,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZAF,South Africa,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SDN,Sudan,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SSD,South Sudan,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TZA,Tanzania,2015,79.99,84.36,82.22,90.52,91.15,90.84,76.51,82.06,79.34,65.89,68.06,63.72,94.15,92.64,95.83
+TGO,Togo,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TUN,Tunisia,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+UGA,Uganda,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZMB,Zambia,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZWE,Zimbabwe,2015,96.28,97.62,96.94,98.67,98.49,98.58,95.59,97.34,96.43,94.67,95.65,93.76,99.91,99.82,100
+BEN,Benin,2015,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+DZA,Algeria,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+AGO,Angola,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BWA,Botswana,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BFA,Burkina Faso,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CPV,Cabo Verde,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CMR,Cameroon,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BDI,Burundi,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CAF,Central African Republic,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TCD,Chad,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COM,Comoros,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COG,"Congo, Rep.",2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COD,"Congo, Dem. Rep.",2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CIV,Cote d'Ivoire,2016,79.5,74.18,76.89,89.45,81.71,85.53,72.83,68.58,70.79,61.87,61.33,62.36,93.95,90.52,97.32
+DJI,Djibouti,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+EGY,"Egypt, Arab Rep.",2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GNQ,Equatorial Guinea,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ERI,Eritrea,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ETH,Ethiopia,2016,75.01,76.07,75.51,90.99,91.2,91.1,73.22,74.1,73.63,59.07,56.64,61.2,91.94,92.81,91.17
+SWZ,Eswatini,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GAB,Gabon,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GMB,"Gambia, The",2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GHA,Ghana,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GNB,Guinea-Bissau,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GIN,Guinea,2016,67.79,60.73,64.22,87.95,83.92,85.77,57.85,46.55,52.34,40.89,35.28,46.27,89.73,87.96,91.88
+KEN,Kenya,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LSO,Lesotho,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LBY,Libya,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LBR,Liberia,2016,37.26,35.9,36.61,50.96,46.85,48.92,23.97,23.14,23.6,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MWI,Malawi,2016,93.76,95.22,94.51,97.63,98.24,97.94,93.25,94.8,94.04,89.59,91.02,88.19,98.14,98.41,97.87
+MDG,Madagascar,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MLI,Mali,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MRT,Mauritania,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MUS,Mauritius,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MOZ,Mozambique,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MAR,Morocco,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NAM,Namibia,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NGA,Nigeria,2016,68.23,64.6,66.43,88.21,87.07,87.64,59.52,54.65,57.12,27.63,24.82,30.31,97.65,98.05,97.27
+NER,Niger,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+RWA,Rwanda,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+STP,Sao Tome and Principe,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SEN,Senegal,2016,59.76,61.74,60.77,77.75,81.94,79.87,47.73,48.72,48.24,40.73,42.44,38.81,81.19,81.46,80.88
+SYC,Seychelles,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SOM,Somalia,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SLE,Sierra Leone,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZAF,South Africa,2016,98.77,99.06,98.91,98.91,99.11,99.01,98.61,99,98.8,98.15,98.28,98.03,99.59,99.69,99.49
+SDN,Sudan,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SSD,South Sudan,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TZA,Tanzania,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TGO,Togo,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TUN,Tunisia,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+UGA,Uganda,2016,91.93,92.16,92.05,93.7,93.91,93.81,91.56,91.74,91.65,81.59,79.88,83.23,96.88,96.9,96.86
+ZMB,Zambia,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZWE,Zimbabwe,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BEN,Benin,2016,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+DZA,Algeria,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+AGO,Angola,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BWA,Botswana,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BFA,Burkina Faso,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CPV,Cabo Verde,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CMR,Cameroon,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BDI,Burundi,2017,82.16,82.36,82.26,94.3,93.56,93.91,81.01,81.24,81.13,63.99,62.59,65.49,93.81,93.87,93.74
+CAF,Central African Republic,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TCD,Chad,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COM,Comoros,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COG,"Congo, Rep.",2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COD,"Congo, Dem. Rep.",2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CIV,Cote d'Ivoire,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+DJI,Djibouti,2017,80.83,75.84,78.43,85.77,80.8,83.37,59.53,53.89,56.84,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+EGY,"Egypt, Arab Rep.",2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GNQ,Equatorial Guinea,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ERI,Eritrea,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ETH,Ethiopia,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SWZ,Eswatini,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GAB,Gabon,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GMB,"Gambia, The",2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GHA,Ghana,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GNB,Guinea-Bissau,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GIN,Guinea,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+KEN,Kenya,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LSO,Lesotho,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LBY,Libya,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LBR,Liberia,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MWI,Malawi,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MDG,Madagascar,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MLI,Mali,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MRT,Mauritania,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MUS,Mauritius,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MOZ,Mozambique,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MAR,Morocco,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NAM,Namibia,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NGA,Nigeria,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NER,Niger,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+RWA,Rwanda,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+STP,Sao Tome and Principe,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SEN,Senegal,2017,61.53,65.61,63.61,80.41,85.96,83.24,49.19,52.43,50.85,44.77,45.63,43.91,88.36,89.1,87.59
+SYC,Seychelles,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SOM,Somalia,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SLE,Sierra Leone,2017,80.19,85.25,82.71,91.89,92.43,92.18,72.7,79.2,75.75,66.08,70.12,62.6,94.45,94.23,94.71
+ZAF,South Africa,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SDN,Sudan,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SSD,South Sudan,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TZA,Tanzania,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TGO,Togo,2017,92.4,91.22,91.82,98.05,96.25,97.13,89.53,88.28,88.93,82.6,80.35,84.59,97.04,96.13,98.05
+TUN,Tunisia,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+UGA,Uganda,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZMB,Zambia,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZWE,Zimbabwe,2017,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BEN,Benin,2017,72.43,64.93,68.73,82.86,75.42,79.07,66.35,58.12,62.38,41.76,35.88,47.28,91.98,88.7,95.35
+DZA,Algeria,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+AGO,Angola,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BWA,Botswana,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BFA,Burkina Faso,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CPV,Cabo Verde,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CMR,Cameroon,2018,85.97,81.92,83.96,95.59,93.06,94.31,77.86,71.76,74.88,59,53.73,64.29,98.28,97.93,98.67
+BDI,Burundi,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CAF,Central African Republic,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TCD,Chad,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COM,Comoros,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COG,"Congo, Rep.",2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COD,"Congo, Dem. Rep.",2018,79.07,77.65,78.38,87.34,87.07,87.21,73.16,70.68,71.97,65.04,62.26,67.69,94.2,93.75,94.64
+CIV,Cote d'Ivoire,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+DJI,Djibouti,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+EGY,"Egypt, Arab Rep.",2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GNQ,Equatorial Guinea,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ERI,Eritrea,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ETH,Ethiopia,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SWZ,Eswatini,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GAB,Gabon,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GMB,"Gambia, The",2018,79.35,83.56,81.52,83.06,88.73,86.01,73.08,74.45,73.78,71.46,72.74,69.94,93.91,95.1,92.66
+GHA,Ghana,2018,92.96,94.01,93.47,96.81,95.48,96.16,90.14,92.94,91.5,83.52,84.91,82.28,98.6,99.09,98.07
+GNB,Guinea-Bissau,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GIN,Guinea,2018,68.59,63.27,65.94,88.26,83.11,85.48,59.76,51.8,55.97,44.82,39.41,50.22,88.72,85.86,92.34
+KEN,Kenya,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LSO,Lesotho,2018,96.33,97.94,97.15,97.73,97.1,97.39,95.73,98.37,97.03,94.71,97.31,92.36,98.68,98.95,98.34
+LBY,Libya,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LBR,Liberia,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MWI,Malawi,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MDG,Madagascar,2018,75.58,80.61,78.1,88.39,89.76,89.05,72.32,78.48,75.43,55.75,60.11,51.38,97.51,97.29,97.72
+MLI,Mali,2018,58.03,54.94,56.5,83.8,77.53,80.51,51.38,48.16,49.81,33.76,32.64,34.72,84.2,80.89,88.28
+MRT,Mauritania,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MUS,Mauritius,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MOZ,Mozambique,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MAR,Morocco,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NAM,Namibia,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NGA,Nigeria,2018,72.78,70.82,71.81,88.85,88.23,88.54,62.21,59.14,60.7,35.07,33.58,36.52,96.64,96.75,96.53
+NER,Niger,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+RWA,Rwanda,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+STP,Sao Tome and Principe,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SEN,Senegal,2018,62.14,64.93,63.56,82.14,84.63,83.4,50.31,53.41,51.88,44.89,45.04,44.72,89.05,89.59,88.46
+SYC,Seychelles,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SOM,Somalia,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SLE,Sierra Leone,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZAF,South Africa,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SDN,Sudan,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SSD,South Sudan,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TZA,Tanzania,2018,85.26,87.45,86.37,94.44,94.37,94.41,82.77,85.31,84.04,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TGO,Togo,2018,91.8,91.33,91.57,97.08,97.26,97.17,89.15,87.96,88.57,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TUN,Tunisia,2018,96.88,96.96,96.92,97.1,96.95,97.02,96.42,96.99,96.71,96.28,96.98,95.59,97.82,96.57,98.99
+UGA,Uganda,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZMB,Zambia,2018,81.97,86.77,84.4,90.03,91.81,90.96,77.68,83.79,80.71,72,75.69,68.33,96.63,96.47,96.81
+ZWE,Zimbabwe,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BEN,Benin,2018,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+DZA,Algeria,2019,98.1,98.1,98.1,98.39,98.57,98.48,97.6,97.34,97.47,96.1,96.1,96.1,99,98.89,99.09
+AGO,Angola,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BWA,Botswana,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BFA,Burkina Faso,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CPV,Cabo Verde,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CMR,Cameroon,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BDI,Burundi,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CAF,Central African Republic,2019,76.85,70.19,73.63,87.89,88.71,88.29,71.21,60.11,65.92,58.65,52.88,64.28,92.56,91.98,93.14
+TCD,Chad,2019,45.6,40.32,42.99,68.76,58.91,63.76,40.81,36.21,38.55,21.25,19.04,23.41,69.76,66.37,73.3
+COM,Comoros,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COG,"Congo, Rep.",2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COD,"Congo, Dem. Rep.",2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CIV,Cote d'Ivoire,2019,79.76,79.48,79.62,85.66,83.78,84.69,75.02,75.34,75.17,70.16,70.14,70.17,90.95,89.8,92.18
+DJI,Djibouti,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+EGY,"Egypt, Arab Rep.",2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GNQ,Equatorial Guinea,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ERI,Eritrea,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ETH,Ethiopia,2019,70.17,71.35,70.75,83.44,83.12,83.27,67.13,68.16,67.63,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SWZ,Eswatini,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GAB,Gabon,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GMB,"Gambia, The",2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GHA,Ghana,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GNB,Guinea-Bissau,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GIN,Guinea,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+KEN,Kenya,2019,93.13,93.16,93.14,94.33,95.83,95.06,92.76,92.32,92.55,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LSO,Lesotho,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LBY,Libya,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LBR,Liberia,2019,78.74,82.52,80.64,86.75,86.85,86.81,70.2,76.35,73.04,65.25,68.11,62.92,94,94.32,93.57
+MWI,Malawi,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MDG,Madagascar,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MLI,Mali,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MRT,Mauritania,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MUS,Mauritius,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MOZ,Mozambique,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MAR,Morocco,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NAM,Namibia,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NGA,Nigeria,2019,71.27,72.04,71.65,82.64,82.96,82.8,67.72,68.48,68.09,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NER,Niger,2019,58.61,52.59,55.5,87.72,90.78,89.31,53.03,45.22,48.99,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+RWA,Rwanda,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+STP,Sao Tome and Principe,2019,96.06,97.03,96.53,96.11,96.74,96.42,95.94,97.65,96.78,93.85,95.7,91.9,97.47,97.08,97.83
+SEN,Senegal,2019,60.16,62.34,61.3,79.41,80.83,80.16,48.11,50.06,49.12,43.95,44.84,43.02,85.48,86.18,84.72
+SYC,Seychelles,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SOM,Somalia,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SLE,Sierra Leone,2019,88.2,91.99,90.06,94.78,95.22,95.02,84.56,89.59,86.9,82.15,86.79,78.58,97.16,97.21,97.11
+ZAF,South Africa,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SDN,Sudan,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SSD,South Sudan,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TZA,Tanzania,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TGO,Togo,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TUN,Tunisia,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+UGA,Uganda,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZMB,Zambia,2019,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZWE,Zimbabwe,2019,94.16,95.53,94.84,95.99,95.58,95.78,93.51,95.52,94.51,91.28,92.67,89.86,97.42,96.64,98.19
+BEN,Benin,2019,74.03,72.66,73.38,81.25,79.84,80.56,68.79,66.9,67.91,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+DZA,Algeria,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+AGO,Angola,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BWA,Botswana,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BFA,Burkina Faso,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CPV,Cabo Verde,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CMR,Cameroon,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BDI,Burundi,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CAF,Central African Republic,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TCD,Chad,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COM,Comoros,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COG,"Congo, Rep.",2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COD,"Congo, Dem. Rep.",2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CIV,Cote d'Ivoire,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+DJI,Djibouti,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+EGY,"Egypt, Arab Rep.",2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GNQ,Equatorial Guinea,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ERI,Eritrea,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ETH,Ethiopia,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SWZ,Eswatini,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GAB,Gabon,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GMB,"Gambia, The",2020,78.03,84.86,81.52,81.43,88.24,84.97,72.17,78.43,75.27,73.38,76.46,70.13,89.13,91.79,86.26
+GHA,Ghana,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GNB,Guinea-Bissau,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GIN,Guinea,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+KEN,Kenya,2020,89.15,90.27,89.71,94.88,94.92,94.9,87.65,88.86,88.25,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LSO,Lesotho,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LBY,Libya,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LBR,Liberia,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MWI,Malawi,2020,93.3,95.05,94.18,96.21,98.92,97.52,92.82,94.48,93.66,90.04,91.48,88.62,97.66,97.93,97.41
+MDG,Madagascar,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MLI,Mali,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MRT,Mauritania,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MUS,Mauritius,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MOZ,Mozambique,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MAR,Morocco,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NAM,Namibia,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NGA,Nigeria,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NER,Niger,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+RWA,Rwanda,2020,93.72,96,94.84,96.34,98.38,97.39,93.3,95.58,94.42,89.55,92.55,86.78,98.36,98.76,97.96
+STP,Sao Tome and Principe,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SEN,Senegal,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SYC,Seychelles,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SOM,Somalia,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SLE,Sierra Leone,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZAF,South Africa,2020,97.58,97.94,97.75,97.54,98.35,97.93,97.63,97.38,97.51,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SDN,Sudan,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SSD,South Sudan,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TZA,Tanzania,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TGO,Togo,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TUN,Tunisia,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+UGA,Uganda,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZMB,Zambia,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZWE,Zimbabwe,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BEN,Benin,2020,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+DZA,Algeria,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+AGO,Angola,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BWA,Botswana,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BFA,Burkina Faso,2021,65.2,65.29,65.24,86.25,82.87,84.5,59.49,59.98,59.73,44.31,43.04,45.46,88.9,86.95,91.11
+CPV,Cabo Verde,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CMR,Cameroon,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BDI,Burundi,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CAF,Central African Republic,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TCD,Chad,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COM,Comoros,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COG,"Congo, Rep.",2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COD,"Congo, Dem. Rep.",2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CIV,Cote d'Ivoire,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+DJI,Djibouti,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+EGY,"Egypt, Arab Rep.",2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GNQ,Equatorial Guinea,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ERI,Eritrea,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ETH,Ethiopia,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SWZ,Eswatini,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GAB,Gabon,2021,94.15,95.27,94.7,94.58,96.08,95.32,90.53,88.89,89.71,88.68,90.27,87.15,98.55,99.07,98.04
+GMB,"Gambia, The",2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GHA,Ghana,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GNB,Guinea-Bissau,2021,78.33,78.72,78.53,94.08,92.28,93.15,69.1,70.05,69.57,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GIN,Guinea,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+KEN,Kenya,2021,94.93,95.36,95.14,95.3,96.39,95.87,94.8,94.95,94.87,86.57,86.22,86.89,97.33,97.78,96.84
+LSO,Lesotho,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LBY,Libya,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LBR,Liberia,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MWI,Malawi,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MDG,Madagascar,2021,75.56,80.42,77.97,90.21,93.46,91.78,72.9,78.17,75.53,52.08,55.14,49.08,97.61,98.42,96.79
+MLI,Mali,2021,57.47,57.42,57.45,86.04,85.09,85.57,50.78,50.31,50.56,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MRT,Mauritania,2021,54.06,56.77,55.4,68.7,72.49,70.59,44.47,46.34,45.4,32.97,31.58,34.3,81.61,84.48,78.73
+MUS,Mauritius,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MOZ,Mozambique,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MAR,Morocco,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NAM,Namibia,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NGA,Nigeria,2021,74.81,73.91,74.37,89.11,89.04,89.08,65.47,63.59,64.56,42.33,41.61,43.02,94.53,93.95,95.08
+NER,Niger,2021,62.4,56.01,59.2,90.61,90.54,90.58,57.68,50,53.85,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+RWA,Rwanda,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+STP,Sao Tome and Principe,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SEN,Senegal,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SYC,Seychelles,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SOM,Somalia,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SLE,Sierra Leone,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZAF,South Africa,2021,98.62,98.24,98.43,98.57,98.48,98.53,98.69,97.87,98.29,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SDN,Sudan,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SSD,South Sudan,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TZA,Tanzania,2021,91.58,93.07,92.36,95.75,96.16,95.97,90.2,92.04,91.16,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TGO,Togo,2021,94.22,94.12,94.17,98.19,97.48,97.81,92.08,91.94,92.01,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TUN,Tunisia,2021,98.02,98.61,98.3,98.05,98.89,98.46,97.97,98.06,98.01,97.79,98.37,97.24,98.32,97.83,98.71
+UGA,Uganda,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZMB,Zambia,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZWE,Zimbabwe,2021,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BEN,Benin,2021,77.65,73.19,75.47,87.59,85.23,86.43,71.18,65.24,68.28,53.28,48.57,57.5,93.81,91.8,96.02
+DZA,Algeria,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+AGO,Angola,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BWA,Botswana,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BFA,Burkina Faso,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CPV,Cabo Verde,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CMR,Cameroon,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BDI,Burundi,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CAF,Central African Republic,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TCD,Chad,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COM,Comoros,2022,87.43,91.28,89.32,93.69,94.54,94.13,84.96,89.85,87.33,79.76,81.75,77.87,94.77,96.03,93.53
+COG,"Congo, Rep.",2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COD,"Congo, Dem. Rep.",2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CIV,Cote d'Ivoire,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+DJI,Djibouti,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+EGY,"Egypt, Arab Rep.",2022,96.71,96.5,96.61,96.74,96.82,96.78,96.7,96.3,96.5,95.42,94.8,96.02,97.51,97.34,97.67
+GNQ,Equatorial Guinea,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ERI,Eritrea,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ETH,Ethiopia,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SWZ,Eswatini,2022,95.19,95.86,95.53,96.19,96.82,96.53,95.02,95.66,95.34,92.74,94.31,91.1,97.16,97.06,97.26
+GAB,Gabon,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GMB,"Gambia, The",2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GHA,Ghana,2022,88.89,90.55,89.74,94.86,96.23,95.56,83.13,85.02,84.09,70.26,72.78,67.92,98.64,98.49,98.8
+GNB,Guinea-Bissau,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GIN,Guinea,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+KEN,Kenya,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LSO,Lesotho,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LBY,Libya,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LBR,Liberia,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MWI,Malawi,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MDG,Madagascar,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MLI,Mali,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MRT,Mauritania,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MUS,Mauritius,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MOZ,Mozambique,2022,71.9,73.78,72.84,87.85,86.27,87.02,64.9,67.53,66.19,52.82,54.63,51.01,95.1,94.55,95.67
+MAR,Morocco,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NAM,Namibia,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NGA,Nigeria,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NER,Niger,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+RWA,Rwanda,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+STP,Sao Tome and Principe,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SEN,Senegal,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SYC,Seychelles,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SOM,Somalia,2022,26.99,25.42,26.21,30.43,27.52,28.95,21.69,21.75,21.72,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SLE,Sierra Leone,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZAF,South Africa,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SDN,Sudan,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SSD,South Sudan,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TZA,Tanzania,2022,82.75,84.92,83.86,91.8,92.97,92.4,79.8,82.25,81.05,69.2,70.91,67.48,95.35,95.22,95.48
+TGO,Togo,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TUN,Tunisia,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+UGA,Uganda,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZMB,Zambia,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZWE,Zimbabwe,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BEN,Benin,2022,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+DZA,Algeria,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+AGO,Angola,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BWA,Botswana,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BFA,Burkina Faso,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CPV,Cabo Verde,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CMR,Cameroon,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BDI,Burundi,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CAF,Central African Republic,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TCD,Chad,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COM,Comoros,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COG,"Congo, Rep.",2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+COD,"Congo, Dem. Rep.",2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+CIV,Cote d'Ivoire,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+DJI,Djibouti,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+EGY,"Egypt, Arab Rep.",2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GNQ,Equatorial Guinea,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ERI,Eritrea,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ETH,Ethiopia,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SWZ,Eswatini,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GAB,Gabon,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GMB,"Gambia, The",2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GHA,Ghana,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GNB,Guinea-Bissau,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+GIN,Guinea,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+KEN,Kenya,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LSO,Lesotho,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LBY,Libya,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+LBR,Liberia,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MWI,Malawi,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MDG,Madagascar,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MLI,Mali,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MRT,Mauritania,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MUS,Mauritius,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MOZ,Mozambique,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+MAR,Morocco,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NAM,Namibia,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NGA,Nigeria,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+NER,Niger,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+RWA,Rwanda,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+STP,Sao Tome and Principe,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SEN,Senegal,2023,59.66,66.92,63.44,75.21,83.13,79.44,50.67,56.77,53.8,51.09,52.9,49.18,86.48,89.29,83.36
+SYC,Seychelles,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SOM,Somalia,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SLE,Sierra Leone,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZAF,South Africa,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SDN,Sudan,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+SSD,South Sudan,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TZA,Tanzania,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TGO,Togo,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+TUN,Tunisia,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+UGA,Uganda,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZMB,Zambia,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+ZWE,Zimbabwe,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B
+BEN,Benin,2023,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B,#N/B

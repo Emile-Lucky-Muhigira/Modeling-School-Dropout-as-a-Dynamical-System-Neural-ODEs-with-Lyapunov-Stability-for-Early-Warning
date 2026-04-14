@@ -1,0 +1,12 @@
+feature,importance,human_name,tier
+age,0.9243569,Age,Individual
+education_years,0.5660026,Years of Education,Individual
+country_dropout_rate,0.51720583,🌍 Country Dropout Rate,Country
+overage,0.40697616,Years Overage,Individual
+country_enrollment_rate,0.2560439,🌍 Country Enrollment Rate,Country
+wealth_index,0.2073574,Wealth Index,Individual
+overage_severe,0.069848195,Severely Overage (2+ yrs),Individual
+female,0.05770741,Female,Individual
+country_never_enrolled_rate,0.0511347,🌍 Country Never-Enrolled Rate,Country
+urban,0.04041298,Urban Residence,Individual
+country_mean_education,0.031868894,🌍 Country Mean Education,Country
