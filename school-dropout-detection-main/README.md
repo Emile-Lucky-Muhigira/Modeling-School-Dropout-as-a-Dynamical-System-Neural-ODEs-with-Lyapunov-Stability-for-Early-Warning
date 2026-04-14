@@ -4,7 +4,7 @@ Explainable Early Warning System for School Dropout Prediction in African Educat
 
 
 
-Authors: Emile Lucky Muhigira
+Authors: Emile Lucky Muhigira, Martin Mulang'
 
 
 
@@ -247,6 +247,7 @@ Kaggle (Education in Africa) - open dataset
 Contact
 
 Emile Lucky Muhigira - emuhigir@andrew.cmu.edu
+Martin Mulang' - mmulang@andrew.cmu.edu
 
 Carnegie Mellon University Africa
 
