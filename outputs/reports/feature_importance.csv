@@ -1,0 +1,27 @@
+feature,importance,human_name
+engrade,0.4166011,Current Grade
+agemon,0.35277063,Age (months)
+hghgrade,0.13052794,Highest Grade Completed
+wi_new,0.059195682,Wealth Index
+typesite,0.0463569,Urban/Rural
+preprim,0.038975526,Pre-Primary Attendance
+shenv1,0.02906338,Environmental Shock
+chhealth,0.023400033,Health Status
+hschool,0.023217987,Time at School
+momedu,0.022438135,Mother's Education
+caredu,0.011738202,Caregiver's Education
+literate,0.008795012,Literacy
+chlang,0.008079844,Language Score
+chsex,0.0066493484,Gender
+ownhouse,0.006356174,Home Ownership
+underweight,0.0048170164,Underweight Status
+hq_new,0.004443512,Housing Quality
+dadedu,0.0009232127,Father's Education
+shfam1,0.0008949397,Family Shock 1
+hhsize,0.0007382621,Household Size
+shecon1,0.00059341703,Economic Shock 1
+momlive,0.0003812853,Mother Alive
+shecon2,0.00035435957,Economic Shock 2
+stunting,0.0,Stunting Status
+dadlive,0.0,Father Alive
+shfam2,0.0,Family Shock 2
